@@ -13,5 +13,8 @@ public class Main {
             // for you, but you can always add more by pressing Cmd+F8.
             System.out.println("i = " + i);
         }
+
+        게보린 게보린 = new 게보린();
+        게보린.게보린섭취();
     }
 }
